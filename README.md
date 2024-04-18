@@ -1,1 +1,1 @@
-Funçõees de conversão e expressões condicionais.
+Funções de conversão e expressões condicionais.
